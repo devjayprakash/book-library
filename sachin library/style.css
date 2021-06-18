@@ -1,0 +1,27 @@
+.d-flex{
+    margin-left: 1280px;
+}
+
+.navbar{
+    background-color: rgb(66, 66, 66);
+}
+
+.hello{
+    width: 1000px;
+    margin:auto;
+    margin-top: 20px;
+}
+
+.container{
+    margin-top: 20px;
+}
+
+.container h1{
+    margin-left: 500px;
+}
+
+#table{
+    width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+}
